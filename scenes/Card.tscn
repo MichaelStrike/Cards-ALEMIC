@@ -50,4 +50,4 @@ text = "Anigilyatornaya
 align = 1
 autowrap = true
 
-[connection signal="toggled" from="." to="." method="_on_Card_toggled"]
+[connection signal="toggled" from="." to="." method="raffle_started"]
