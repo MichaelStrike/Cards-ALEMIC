@@ -43,7 +43,3 @@ autoplay = "idle"
 anims/idle = SubResource( 2 )
 
 [node name="Card" parent="." instance=ExtResource( 2 )]
-margin_left = 203.0
-margin_top = 139.0
-margin_right = 267.0
-margin_bottom = 267.0
